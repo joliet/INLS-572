@@ -14,3 +14,12 @@ h2 {
   font-weight: 1em;
   color: #3b3b39;
 }
+section {
+  margin: 0 10%;
+}
+footer {
+  border-top: solid #5c09b0 .1em;
+  font-size: .8em;
+  text-align: center;
+  padding: 2%
+}
