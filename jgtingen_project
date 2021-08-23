@@ -3,5 +3,18 @@
 <head>
   <meta charset="utf-8">
   <title>Jolie's INLS 572 Project</title>
+  <link rel="stylesheet" href="style.css"
+</head>
   <body>
+    <h1> Jolie's INLS 572 Project</h1>
+    <h2> Option 1 </h2>
+    <p> I would like to create a new theme for my portfolio - https://joliet.github.io/.
+      The portfolio is build with a Jekyll theme that I modified.  Ultimately, I would like to make even more changes
+      to the project page layout, default styles for headings, and other styles that don't fit how I would like to
+      format the content.</p>
+    <h2> Option 2 </h2>
+    <p> I'm interested in bulding two custom WordPress themes that can be used as course templates for faculty at Duke
+      (I work at Duke in Learning Tehcnologies). These would be similar to the layout and options we use in the
+      templates we provide in the learning management system.
+    </p>
   </body>
