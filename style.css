@@ -1,17 +1,19 @@
 body {
   font-family: Open Sans, sans-serif;
-  font-size: 1em;
+  font-size: .875em;
   color: #403f3d
   background-color: #e8e7e6
   margin: 0;
 }
 h1 {
   font-weight: bold;
+  font-size: 1.25em;
   color: #262625
   text-align: center;
 }
 h2 {
-  font-weight: .6em;
+  font-weight: bold;
+  font-size: 1.124em;
   color: #3b3b39;
 }
 section {
@@ -19,7 +21,7 @@ section {
 }
 footer {
   border-top: solid #5c09b0 .1em;
-  font-size: .8em;
+  font-size: .75em;
   text-align: center;
   padding: 2%
 }
